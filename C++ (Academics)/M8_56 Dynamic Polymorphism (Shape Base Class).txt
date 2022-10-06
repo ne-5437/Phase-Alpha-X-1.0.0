@@ -1,0 +1,24 @@
+
+shape constructor
+        
+triangle constructor
+Enter triangle dimensions:
+Enter length=4
+Enter width=7
+
+Triangle area=14
+shape constructor
+
+rectangle constructor
+Enter rectangle dimensions
+Enter length=5
+Enter width=4
+
+Rectangle area=20
+rectangle destructor
+
+shape destructor
+
+traingle destructor
+
+shape destructor

@@ -1,0 +1,9 @@
+Enter triangle dimensions:
+Enter length=4
+Enter width=5
+Enter rectangle dimensions
+Enter length=2
+Enter width=8
+
+Triangle area=10
+Rectangle area=16

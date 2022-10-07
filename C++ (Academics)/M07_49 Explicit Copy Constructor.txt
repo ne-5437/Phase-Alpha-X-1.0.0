@@ -1,0 +1,11 @@
+enter real=2
+enter img=3
+c1=2+3i
+enter c2=enter real=4
+enter img=5
+c2=4+5i
+iam in cc
+2+3i
+c1=3+4ic3=2+3iiam in destructor
+iam in destructor
+iam in destructor

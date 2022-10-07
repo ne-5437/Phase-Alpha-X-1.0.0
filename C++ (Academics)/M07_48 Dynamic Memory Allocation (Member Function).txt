@@ -1,0 +1,7 @@
+enter n=3
+A[0]=2
+A[1]=4
+A[2]=5
+2    4    5    2    4    5    mean=3.666667
+standard deviation=0.7698
+DIS

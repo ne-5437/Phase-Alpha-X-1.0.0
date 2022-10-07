@@ -1,0 +1,10 @@
+p1 is (2,3,4)
+
+ Enter the coordinates of p2=
+5
+4
+3
+
+Distance of AB in 2D=3.162278
+
+Distance of AB on 3D=3.316625

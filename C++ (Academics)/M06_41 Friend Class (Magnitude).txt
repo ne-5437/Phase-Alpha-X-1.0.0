@@ -1,0 +1,9 @@
+c=real=3
+img=2
+c=3+2i
+r=nr=3
+dr=4
+r=3/4
+c>r
+iam in destructor of rc
+iam in destructor of cc

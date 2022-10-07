@@ -1,0 +1,135 @@
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+In Default constructor!
+N=3
+s[0]=
+Enter name-eshwar
+
+Enter roll no=12
+
+Enter marks-
+M[0]=85
+
+M[1]=90
+
+M[2]=96
+
+M[3]=94
+
+M[4]=88
+
+M[5]=89
+
+M[6]=98
+
+M[7]=91
+s[1]=
+Enter name-hithesh
+
+Enter roll no=16
+
+Enter marks-
+M[0]=99
+
+M[1]=98
+
+M[2]=95
+
+M[3]=94
+
+M[4]=96
+
+M[5]=99
+
+M[6]=89
+
+M[7]=80
+s[2]=
+Enter name-sankar
+
+Enter roll no=41
+
+Enter marks-
+M[0]=95
+
+M[1]=88
+
+M[2]=80
+
+M[3]=97
+
+M[4]=91
+
+M[5]=85
+
+M[6]=86
+
+M[7]=88
+Name of student-eshwar
+Rollno-12
+SGPA-85  90  96  94  88  89  98  91
+Overall percentage-91.37
+
+Name of student-hithesh
+Rollno-16
+SGPA-99  98  95  94  96  99  89  80
+Overall percentage-93.75
+
+Name of student-sankar
+Rollno-41
+SGPA-95  88  80  97  91  85  86  88
+Overall percentage-88.75
+The topper is-
+
+Name of student-hithesh
+Rollno-16
+SGPA-99  98  95  94  96  99  89  80
+Overall percentage-93.75

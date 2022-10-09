@@ -1,0 +1,33 @@
+Sending following three elements:
+126251
+171137
+121808
+Your output is:
+Elements sum is 419196
+Minimum element is 121808
+Maximum element is 171137
+Sending following five elements:
+126251
+171137
+121808
+532997
+748465
+Your output is:
+Elements sum is 1700658
+Minimum element is 121808
+Maximum element is 748465
+Sending following ten elements:
+126251
+171137
+121808
+532997
+748465
+947278
+761084
+951938
+549216
+841878
+Your output is:
+Elements sum is 5752052
+Minimum element is 121808
+Maximum element is 951938

@@ -1,8 +1,0 @@
-A's Constructor
-B's Constructor
-C's Construction
-D's Construction
-D's Destructor
-C's Destructor
-B's Destructor
-A's Destructor

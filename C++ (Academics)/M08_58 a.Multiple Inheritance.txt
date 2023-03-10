@@ -1,6 +1,0 @@
-A's Constructor
-B's Constructor
-C's Construction
-C's Destructor
-B's Destructor
-A's Destructor

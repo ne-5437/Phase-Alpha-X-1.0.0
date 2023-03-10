@@ -1,3 +1,0 @@
-Welcome to C programming.
-Hello, World!
-Welcome to C programming.

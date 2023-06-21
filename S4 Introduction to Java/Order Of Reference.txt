@@ -1,0 +1,14 @@
+MyApplet
+AppletDemo  & MyAppletDemo.html
+LifeCycleApplet
+StatusWindow
+AppletTitle
+ParamDemo
+Accumulator
+CounterAnon
+MouseEvents
+Bases
+SimpleImageLoad
+DigitalClock
+SimpleBanner
+GraphicsText

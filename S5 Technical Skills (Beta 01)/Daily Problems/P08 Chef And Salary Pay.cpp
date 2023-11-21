@@ -26,8 +26,7 @@ int main() {
 	            else if((a[i]=='1') && (a[i+1]=='0'))
 	            {
 	                c1=1;
-	            }
-	            
+	            }        
 	        }
 	        }
 	        total=(count*n)+(max*m);
